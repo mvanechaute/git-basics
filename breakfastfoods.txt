@@ -3,3 +3,6 @@ bacon
 omelettes
 french toast
 bagels
+cereal
+yogurt
+leftover pizza
